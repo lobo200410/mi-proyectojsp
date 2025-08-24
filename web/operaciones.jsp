@@ -110,6 +110,9 @@
                 <%
                     }
                 %>
+                
+                
+                   <!-- Este es un comentario HTML, sí aparece en el código fuentqe -->
             </tbody>
         </table>
     </form>
